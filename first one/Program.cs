@@ -6,7 +6,7 @@ namespace first_one
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World like to code Yes mate!");
+            Console.WriteLine("Hello World like to code Yes mate VBery very good!");
         }
     }
 }
