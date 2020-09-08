@@ -29,7 +29,7 @@ namespace ConsoleAppFirstTime
             Console.WriteLine("Pleace enter a number: ");
             numberTwo = TextToNumber(Console.ReadLine());
 
-            if (numberOne > numberTwo)
+            if (numberOne > numberTwo) 
             {
                 Console.WriteLine("Frist number was the biggest");
             }
@@ -39,7 +39,7 @@ namespace ConsoleAppFirstTime
             }
         }
 
-        static int TextToNumber(string textNumber)
+        static int TextToNumber(string textNumber) 
         {
             int number = 0;
 
